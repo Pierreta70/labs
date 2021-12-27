@@ -2,7 +2,7 @@ A package manager or package-management system is a collection of software tools
 configuring, and removing computer programs for a computer's operating system in a consistent manner. ... 
 Package managers are designed to eliminate the need for manual installs and updates
 
-Ubuntu (apt or apt-get )
+Ubuntu / Debian (apt or apt-get )
 ==============================
 apt-get update
 apt-get install vim
